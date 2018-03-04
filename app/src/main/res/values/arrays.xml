@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (C) 2016 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string-array name="bahasa">
+        <item>JAVA</item>
+        <item>C</item>
+        <item>PHP</item>
+        <item>RUBY</item>
+        <item>SQL</item>
+        <item>JavaScript</item>
+    </string-array>
+    <string-array name="bahasa_deskripsi">
+        <item>Java adalah bahasa pemrograman yang dapat dijalankan di berbagai komputer termasuk telepon genggam. Java tidak boleh disalahpahami sebagai JavaScript. JavaScript adalah bahasa scripting yang digunakan oleh web browser.
+        </item>
+        <item>Dibuat untuk memprogram sistem dan jaringan komputer namun bahasa ini juga sering digunakan dalam mengembangkan software aplikasi. C juga banyak dipakai oleh berbagai jenis platform sistem operasi dan arsitektur komputer, bahkan terdapat beberepa compiler yang sangat populer telah tersedia.
+        </item>
+        <item>PHP adalah bahasa pemrograman script yang paling banyak dipakai saat ini. PHP pertama kali dibuat oleh Rasmus Lerdorf pada tahun 1995. Pada waktu itu PHP masih bernama FI (Form Interpreted), yang wujudnya berupa sekumpulan script yang digunakan untuk mengolah data form dari web.
+        </item>
+        <item>Ruby adalah bahasa skripting yang berorientasi obyek. Tujuan dari ruby adalah menggabungkan kelebihan dari semua bahasa-bahasa pemrograman scripting yang ada di dunia. Ruby ditulis dengan bahasa pemrograman C dengan kemampuan dasar sepertiPerl dan Python.
+        </item>
+        <item>SQL (Structured Query Language) adalah sebuah bahasa yang dipergunakan untuk mengakses data dalam basis data relasional. Bahasa ini secara de facto merupakan bahasa standar yang digunakan dalam manajemen basis data relasional. Saat ini hampir semua server basis data yang ada mendukung bahasa ini untuk melakukan manajemen datanya.
+        </item>
+        <item>Javascript adalah bahasa scripting yang handal yang berjalan pada sisi client. JavaScript merupakan sebuah bahasa scripting yang dikembangkan oleh Netscape. Untuk menjalankan script yang ditulis dengan JavaScript kita membutuhkan JavaScript-enabled browser yaitu browser yang mampu menjalankan JavaScript.</item>
+    </string-array>
+    <array name="bahase_gambar">
+        <item>@drawable/java</item>
+        <item>@drawable/c</item>
+        <item>@drawable/php</item>
+        <item>@drawable/ruby</item>
+        <item>@drawable/sql</item>
+        <item>@drawable/javascript</item>
+    </array>
+</resources>
